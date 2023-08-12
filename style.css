@@ -1,0 +1,22 @@
+body{
+    background-color: #2a2a2a;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex: 1;
+}
+.maindiv{
+    display: flex;
+    height: 100px;
+    width: 95%;
+    background-color: rgb(31, 31, 31);
+    
+}
+
+.divs{
+    flex: 1;
+    background-color: rgb(201, 190, 176);
+    height: 60px;
+    margin: 10px;
+    transform: translate(0,16%);
+}
