@@ -1,11 +1,16 @@
 body{
-    background-color: #2a2a2a;
+    background: rgb(61,61,61);
+    background: linear-gradient(360deg, rgb(155, 155, 155) 0%, rgba(0,0,0,1) 0%, rgb(56, 56, 56) 100%); 
     justify-content: center;
     text-align: center;
     display: flex;
     flex: 1;
+    height: 1000px;
 }
 .maindiv{
+    margin: 50px;
+    position: sticky;
+    top: 0px;
     display: flex;
     height: 100px;
     width: 95%;
