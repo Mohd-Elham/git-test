@@ -8,9 +8,9 @@ body{
     height: 1000px;
 }
 .maindiv{
-    margin: 50px;
+    margin: 20px;
     position: sticky;
-    top: 0px;
+    top: 20px;
     display: flex;
     height: 100px;
     width: 95%;
